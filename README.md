@@ -4,3 +4,5 @@ The first project listed is my first project completed in python, it is a __very
 
 The second project listed in this repository is a SQL analysis of COVID-19 data from Our World In Data 
 from the beginning of the pandemic until approximately 05/2021. 
+
+The third project listed is a Python analysis of World Development Indicators from 1960 to 2008 with 3 visualizations. 
